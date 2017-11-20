@@ -40,8 +40,8 @@ Setting the renderer and the parser
 
 Just follow the documentation:
 
-- `Setting the renderer <http://django-rest-framework.org/api-guide/renderers.html#setting-the-renderers>`_.
-- `Setting the parser <http://django-rest-framework.org/api-guide/parsers.html#setting-the-parsers>`_.
+- `Setting the renderer <http://www.django-rest-framework.org/api-guide/renderers/#setting-the-renderers>`_.
+- `Setting the parser <http://www.django-rest-framework.org/api-guide/parsers/#setting-the-parsers>`_.
 
 
 ``rest_framework_msgpack.renderers.MessagePackRenderer``
